@@ -18,3 +18,6 @@ C:\Users\Andrew\Desktop\Angular2-GettingStarted-master\Angular2-GettingStarted-m
 C:\Users\Andrew\Desktop\Angular2-GettingStarted-master\Angular2-GettingStarted-master\APM - Start VS 2015 ASP 4x\APMSolution\APM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Andrew\Desktop\Angular2-GettingStarted-master\Angular2-GettingStarted-master\APM - Start VS 2015 ASP 4x\APMSolution\APM\obj\Debug\APM.dll
 C:\Users\Andrew\Desktop\Angular2-GettingStarted-master\Angular2-GettingStarted-master\APM - Start VS 2015 ASP 4x\APMSolution\APM\obj\Debug\APM.pdb
+C:\Work\Repos\LearnAngular\APMSolution\APM\obj\Debug\APM.csprojResolveAssemblyReference.cache
+C:\Work\Repos\LearnAngular\APMSolution\APM\obj\Debug\APM.dll
+C:\Work\Repos\LearnAngular\APMSolution\APM\obj\Debug\APM.pdb
